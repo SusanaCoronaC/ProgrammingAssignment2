@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## This functions computes the inverse of a matrix, 
+## if the matrix was calculated already then the function do not compute again and get it from cache. 
+
 ## Write a short comment describing this function
 # This function creates a special "matrix" object that can cache its inverse.
 # It Contains a function to:
